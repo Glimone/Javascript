@@ -2,7 +2,6 @@
 alert ("Hello world");
 alert ("O primeiro passo é esse!");
 
-
 // Existem 2 modos de fazer comentários em JS:
 // 1 - Utilizando "//", que se define apenas para uma linha.
 
@@ -18,3 +17,5 @@ alert ("O primeiro passo é esse!");
 
 * Os outros tipos de simbolos para comentário já foram explicados.
 */
+
+/*Console.log("") é utilizado para imprimir uma mensagem. Nesse caso, não podemos mostrar o exemplo por conta do "Alert" mas terão outros diversos em outros momentos.*/ 
