@@ -58,3 +58,13 @@
     console.log ("Subtração (-)");
     console.log ("Multiplicação (*)");
     console.log ("Divisão (/)");
+    console.log ();
+    console.log ("----------------------------");
+
+//Ordem de precedência
+    console.log ();
+    console.log ("Ordem de precedência");
+    console.log ();
+    console.log ("1 - Parentêses.")
+    console.log ("2 - Multiplicação e divisão.");
+    console.log ("3 - Adição e subtração.")
