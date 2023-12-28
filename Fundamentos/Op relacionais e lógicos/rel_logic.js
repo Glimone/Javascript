@@ -22,4 +22,4 @@ let idade = 20;
 let maioridade = 18;
 let resultado = idade > maioridade;
 console.log ("R:");
-console.log (resultado);
+console.log (resultado); 
