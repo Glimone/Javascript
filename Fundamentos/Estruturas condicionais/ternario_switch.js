@@ -24,7 +24,7 @@ if (Maria === "Sim") {
         break
 
         //Defaut é o caso em que nenhum dos cases é o correto. Nesse caso em si não seria aplicável, pois só entraria no Switch com uma resposta do user. Aqui a interação é apenas com a máquina.
-        defaut: 
+        default: 
         console.log ("Maria não é a namorada do Gabriel");
         break
     }
